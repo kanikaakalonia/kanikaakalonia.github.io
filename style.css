@@ -178,4 +178,5 @@ li:not(:first-child) span {
 
 .timeLeft span {
   color: #cb3439;
+  padding: 25px;
 }

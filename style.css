@@ -8,13 +8,6 @@
   font-family: "Merriweather", sans-serif;
 }
 
-.header {
-  padding: 50px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
 
 body {
   display: flex;

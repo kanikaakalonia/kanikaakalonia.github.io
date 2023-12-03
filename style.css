@@ -9,8 +9,7 @@
 }
 
 .header {
-  padding: 35px;
-  width: 50px;
+  padding: 50px;
   text-align: center;
   background: #1abc9c;
   color: white;
@@ -32,7 +31,7 @@ body {
 }
 
 .wrapper {
-  width: 70px;
+  width: 700px;
   padding: 35px;
   background: #0f172a;
   color: #f1f5f9;

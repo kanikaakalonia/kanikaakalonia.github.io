@@ -9,7 +9,8 @@
 }
 
 .header {
-  padding: 50px;
+  padding: 35px;
+  width: 100%;
   text-align: center;
   background: #1abc9c;
   color: white;
@@ -31,8 +32,8 @@ body {
 }
 
 .wrapper {
-  width: 770px;
-  padding: 35px;
+  width: 100%;
+  
   background: #0f172a;
   color: #f1f5f9;
   border-radius: 10px;
